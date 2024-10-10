@@ -1,5 +1,5 @@
 /* import global css */
-@import '../../global/global.css)';
+@import '../../global/global.css';
 
 /* import partials */
 @import './partials/section-um.css';
